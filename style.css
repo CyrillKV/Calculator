@@ -2,13 +2,12 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: lightgray;
+  background-color: gray;
   color:white;
 }
 p{
-  font-size: 30px;
-  font-weight: bold;
-  margin: 10px;
+  font-size: 40px;
+  margin: 15px;
 }
 .main{
   display: flex;
@@ -43,4 +42,5 @@ button{
   width: 80px;
   font-size: 32px;
   font-weight: bold;
+  background-color: lightgray;
 }
